@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fitocracy>
+	<exercise name="stretching" type="TimeOnly">
+      <set>
+		<hours>0</hours>
+		<minutes>1</minutes>
+		<seconds>0</seconds>
+	  </set>
+   </exercise>
+   <exercise name="barbell bench press" type="WeightsReps">
+      <set>
+		<weight>41.5</weight>
+		<reps>12</reps>
+	  </set>
+	  <set>
+		<weight>41.5</weight>
+		<reps>12</reps>
+	  </set>
+	  <set>
+		<weight>46.5</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>46.5</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>51.5</weight>
+		<reps>8</reps>
+	  </set>
+	  <set>
+		<weight>51.5</weight>
+		<reps>8</reps>
+	  </set>
+	  <set>
+		<weight>56.5</weight>
+		<reps>6</reps>
+	  </set>
+	  <set>
+		<weight>56.5</weight>
+		<reps>6</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+	<exercise name="incline barbell bench press" type="WeightsReps">
+      <set>
+		<weight>34</weight>
+		<reps>12</reps>
+	  </set>
+	  <set>
+		<weight>34</weight>
+		<reps>12</reps>
+	  </set>
+	  <set>
+		<weight>39</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>39</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>44</weight>
+		<reps>8</reps>
+	  </set>
+	  <set>
+		<weight>44</weight>
+		<reps>6</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+   <exercise name="decline dumbbell bench press" type="WeightsReps">
+      <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+   </exercise>
+   <exercise name="dumbbell bench press" type="WeightsReps">
+      <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+   </exercise>
+   <exercise name="incline dumbbell bench press" type="WeightsReps">
+      <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>17</weight>
+		<reps>10</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+   <exercise name="dumbbell flyes" type="WeightsReps">
+      <set>
+		<weight>12</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>12</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>12</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>12</weight>
+		<reps>10</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+   <exercise name="barbell squat" type="WeightsReps">
+      <set>
+		<weight>51.5</weight>
+		<reps>15</reps>
+	  </set>
+	  <set>
+		<weight>51.5</weight>
+		<reps>15</reps>
+	  </set>
+	  <set>
+		<weight>51.5</weight>
+		<reps>15</reps>
+	  </set>
+   </exercise>
+</fitocracy>

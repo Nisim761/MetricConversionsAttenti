@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gmail>
+	<message name="try">
+		<to>nisim761+to@gmail.com</to>
+		<cc>nisim761+cc@gmail.com</cc>
+		<bcc>nisim761+bcc@gmail.com</bcc>
+		<subject>try... 1, 2, 3</subject>
+		<body>this is just a body</body>
+		<attachments>1.jpg</attachments>
+   </message>
+   <message name="spam">
+		<to>nisim761+to@gmail.com</to>
+		<cc>nisim761+cc@gmail.com</cc>
+		<bcc>nisim761+bcc@gmail.com</bcc>
+		<subject>SPAM subject</subject>
+		<body>SPAM body</body>
+		<attachments>spam.jpg</attachments>
+   </message>
+</gmail>

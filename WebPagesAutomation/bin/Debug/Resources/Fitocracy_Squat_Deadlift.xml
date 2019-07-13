@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fitocracy>
+	<exercise name="stretching" type="TimeOnly">
+      <set>
+		<hours>0</hours>
+		<minutes>2</minutes>
+		<seconds>0</seconds>
+	  </set>
+   </exercise>
+   <exercise name="barbell squat" type="WeightsReps">
+      <set>
+		<weight>54</weight>
+		<reps>12</reps>
+	  </set>
+	  <set>
+		<weight>64</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>74</weight>
+		<reps>9</reps>
+	  </set>
+	  <set>
+		<weight>79</weight>
+		<reps>8</reps>
+	  </set>
+	  <set>
+		<weight>84</weight>
+		<reps>7</reps>
+	  </set>
+	  <set>
+		<weight>89</weight>
+		<reps>6</reps>
+	  </set>
+	  <set>
+		<weight>94</weight>
+		<reps>5</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+	<exercise name="barbell deadlift" type="WeightsReps">
+      <set>
+		<weight>61.5</weight>
+		<reps>10</reps>
+	  </set>
+	  <set>
+		<weight>71.5</weight>
+		<reps>9</reps>
+	  </set>
+	  <set>
+		<weight>81.5</weight>
+		<reps>8</reps>
+	  </set>
+	  <set>
+		<weight>91.5</weight>
+		<reps>7</reps>
+	  </set>
+	  <set>
+		<weight>101.5</weight>
+		<reps>6</reps>
+	  </set>
+   </exercise>
+   <exercise name="crunch" type="RepsOnly">
+      <set>
+		<reps>50</reps>
+	  </set>
+   </exercise>
+</fitocracy>

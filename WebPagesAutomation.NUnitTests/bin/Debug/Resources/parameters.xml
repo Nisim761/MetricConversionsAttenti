@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<webpages>
+  <page name="Gmail">
+    <!--<url>https://accounts.google.com/</url>-->
+    <!--<url>https://www.google.com/gmail</url>-->
+    <url>https://accounts.google.com/signin/v2/identifier?service=mail</url>
+    <username>okusarun@gmail.com</username>
+    <password>Verint2016</password>
+  </page>
+   <page name="Fitocracy">
+      <url>https://www.fitocracy.com/</url>
+      <username>nisim761@gmail.com</username>
+      <password>didush761</password>
+   </page>
+   <page name="Facebook">
+      <url>https://www.facebook.com/</url>
+      <username>nisim761@gmail.com</username>
+      <password>didush761</password>
+   </page>
+   <page name="Instagram">
+      <url>https://www.instagram.com/?hl=en</url>
+      <username>nisim761@gmail.com</username>
+      <password>didush761</password>
+   </page>
+</webpages>
